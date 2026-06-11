@@ -3,6 +3,8 @@
 Slide deck for an invited talk by **Jie (Jason) Lian** (Harvard Kennedy School) at the
 **[Machine Collaborators Seminar Series](https://machinecollaborators.org/sessions/)**, June 11, 2026.
 
+![An AI-enhanced research loop — human-led steps anchor every loop; AI accelerates the rest](research-loop.png)
+
 📄 **[Learning_with_AI.pdf](Learning_with_AI.pdf)** — 19 slides.
 
 ## Abstract
