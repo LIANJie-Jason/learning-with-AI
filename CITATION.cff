@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you reference this talk, please cite it as below."
+title: "Learning with AI"
+abstract: >-
+  Invited talk on research and learning with AI-assisted workflows — the
+  opportunities they create, the limits they reveal, and the questions they raise.
+authors:
+  - given-names: Jie
+    family-names: Lian
+    alias: Jason
+    affiliation: "Harvard Kennedy School"
+date-released: "2026-06-11"
+url: "https://github.com/LIANJie-Jason/learning-with-AI"
+keywords:
+  - AI-assisted research
+  - reproducibility
+  - computational social science
+  - research methods

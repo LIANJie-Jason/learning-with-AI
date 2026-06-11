@@ -26,6 +26,12 @@ it creates, the limits it reveals, and the questions it raises along the way.
 4. **The hurdles** — can you comprehend the cross-field theory, and the code stack?
 5. **Practices & what good research looks like** — asking the right questions, reading more, and a valid supporting package.
 
+## How to cite
+
+> Lian, Jie (Jason). 2026. "Learning with AI." Invited talk, Machine Collaborators Seminar Series, June 11. https://github.com/LIANJie-Jason/learning-with-AI
+
+A machine-readable [`CITATION.cff`](CITATION.cff) is included — use the **"Cite this repository"** button on GitHub.
+
 ## References
 
 - Anastasopoulos & Lian (2026), "The Limits of Authoritarian AI," *Journal of Democracy* 37(2).
